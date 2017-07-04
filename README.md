@@ -4,6 +4,7 @@ Ecommerce Front-end Built using Twitter Bootstrap Framework and LESS preprocesso
 <p align="center">
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/bs.png" height="200px" width="auto" />
+  
   <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/less.png" height="130px" width="auto" />
 </p>
 
